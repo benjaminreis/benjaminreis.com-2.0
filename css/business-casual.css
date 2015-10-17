@@ -48,6 +48,11 @@ hr {
     letter-spacing: 2px;
 }
 
+    .navbar-header {
+        background-color: #F0EAE1;
+        
+    }
+
 .navbar-nav {
     text-transform: uppercase;
     font-weight: 400;
@@ -157,6 +162,7 @@ footer p {
 
     .navbar-header {
         display: none;
+
     }
 
     .navbar {
